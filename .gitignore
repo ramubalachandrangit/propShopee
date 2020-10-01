@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApplicationCore.vb/.vs/ApplicationCore/DesignTimeBuild
+/ApplicationCore.vb/.vs/ApplicationCore/v16
+/ApplicationCore.vb/.vs/ApplicationCore.vb
+/ApplicationCore.vb/bin/Debug/netstandard2.1
+/ApplicationCore.vb/obj
+/Infrastructure.vb/.vs/Infrastructure
+/Infrastructure.vb/bin/Debug/netstandard2.1
+/Infrastructure.vb/obj
+/Web.VB/bin/Debug/netcoreapp3.1
+/Web.VB/obj
